@@ -14,7 +14,7 @@ In this repository, you'll find:
 
 ## How to View the Dashboards
 
-To interact with these dashboards, you have a few options:
+To interact with these dashboards:
 
 - **Download the `.pbix` Files:** The easiest way to explore the dashboards is to download the individual `.pbix` files from their respective folders. You'll need **Power BI Desktop** installed on your computer to open and interact with them.
     * [Download Power BI Desktop](https://powerbi.microsoft.com/desktop/)
@@ -25,9 +25,16 @@ To interact with these dashboards, you have a few options:
 
 Here are some of the dashboards you can explore in this repository:
 
+![Elbow Method - K Selection](images/analysis.png)
 * **[netflix.pbix]:** Briefly describe what this dashboard is about (e.g., "Analyzes sales performance across different regions and product categories, identifying top performers and areas for improvement.").
+
+![Elbow Method - K Selection](images/analysis.png)
 * **[shopping.pbix]:** Briefly describe what this dashboard is about (e.g., "Visualizes customer churn rates and identifies key factors contributing to customer attrition.").
+
+![Elbow Method - K Selection](images/analysis.png)
 * **[cust_seg.pbix]:** Briefly describe what this dashboard is about (e.g., "Monitors marketing campaign effectiveness, tracking KPIs like conversion rates and ROI.").
+
+![Elbow Method - K Selection](images/analysis.png)
 * **(Add more as needed)**
 
 ---
@@ -45,13 +52,7 @@ Here are some of the dashboards you can explore in this repository:
 I'm always open to feedback and collaboration! If you have any questions or would like to discuss any of the dashboards, feel free to:
 
 * **Open an issue** in this repository.
-* **Connect with me on LinkedIn:** [Your LinkedIn Profile URL]
-* **Email me:** [Your Email Address]
-
+* **Connect with me on LinkedIn:** https://www.linkedin.com/in/aditi-agr/
+* **Email me:** aditi786aaa@gmail.com
 ---
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details (Optional, but good practice if you want to specify licensing for your work).
-
----
