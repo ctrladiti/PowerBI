@@ -27,19 +27,19 @@ Here are some of the dashboards you can explore in this repository:
 
 ![Netflix Dashboard](images/analysis.png)
 
-- **[netflix.pbix]:** Briefly describe what this dashboard is about (e.g., "Analyzes sales performance across different regions and product categories, identifying top performers and areas for improvement.").
+- **[netflix.pbix]:** This dashboard provides an in-depth analysis of Netflix content, including trends in movie and TV show releases, genre popularity, and geographical distribution of titles, helping to identify content strategy insights.
 
 ![Shopping Dashboard](images/analysis.png)
 
-- **[shopping.pbix]:** Briefly describe what this dashboard is about (e.g., "Visualizes customer churn rates and identifies key factors contributing to customer attrition.").
+- **[shopping.pbix]:** This dashboard offers a comprehensive view of e-commerce sales performance. It tracks key metrics like revenue, order volume, and average order value, while also segmenting sales by product category, customer demographics, and regional performance.
 
 ![Customer Segmentation](images/analysis.png)
 
-- **[cust_seg.pbix]:** Briefly describe what this dashboard is about (e.g., "Monitors marketing campaign effectiveness, tracking KPIs like conversion rates and ROI.").
+- **[cust_seg.pbix]:** This dashboard focuses on customer behavior analysis, segmenting customers based on various criteria such as purchasing patterns, engagement levels, and demographics. It helps identify high-value customer groups and opportunities for targeted marketing.
 
 ![Executive Summary](images/analysis.png)
 
-- **(Add more as needed)**
+- **[executive_summary.pbix]:** This high-level dashboard presents a concise overview of key business performance indicators, offering a snapshot of critical operational and financial metrics for quick decision-making by executives.
 
 ---
 
