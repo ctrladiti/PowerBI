@@ -8,16 +8,16 @@ This repository showcases a collection of interactive Power BI dashboards I've d
 
 In this repository, you'll find:
 
-* **Diverse Dashboard Examples:** A variety of dashboards covering different industries, datasets, and analytical focuses.
-* **Interactive Visualizations:** Each dashboard is designed to be interactive, allowing users to drill down into data and explore insights.
-* **Problem-Solving Focus:** Every dashboard addresses a specific business question or analytical challenge.
+- **Diverse Dashboard Examples:** A variety of dashboards covering different industries, datasets, and analytical focuses.
+- **Interactive Visualizations:** Each dashboard is designed to be interactive, allowing users to drill down into data and explore insights.
+- **Problem-Solving Focus:** Every dashboard addresses a specific business question or analytical challenge.
 
 ## How to View the Dashboards
 
 To interact with these dashboards:
 
 - **Download the `.pbix` Files:** The easiest way to explore the dashboards is to download the individual `.pbix` files from their respective folders. You'll need **Power BI Desktop** installed on your computer to open and interact with them.
-    * [Download Power BI Desktop](https://powerbi.microsoft.com/desktop/)
+  - [Download Power BI Desktop](https://powerbi.microsoft.com/desktop/)
 
 ---
 
@@ -25,25 +25,29 @@ To interact with these dashboards:
 
 Here are some of the dashboards you can explore in this repository:
 
-![Elbow Method - K Selection](images/analysis.png)
-* **[netflix.pbix]:** Briefly describe what this dashboard is about (e.g., "Analyzes sales performance across different regions and product categories, identifying top performers and areas for improvement.").
+![Netflix Dashboard](images/analysis.png)
 
-![Elbow Method - K Selection](images/analysis.png)
-* **[shopping.pbix]:** Briefly describe what this dashboard is about (e.g., "Visualizes customer churn rates and identifies key factors contributing to customer attrition.").
+- **[netflix.pbix]:** Briefly describe what this dashboard is about (e.g., "Analyzes sales performance across different regions and product categories, identifying top performers and areas for improvement.").
 
-![Elbow Method - K Selection](images/analysis.png)
-* **[cust_seg.pbix]:** Briefly describe what this dashboard is about (e.g., "Monitors marketing campaign effectiveness, tracking KPIs like conversion rates and ROI.").
+![Shopping Dashboard](images/analysis.png)
 
-![Elbow Method - K Selection](images/analysis.png)
-* **(Add more as needed)**
+- **[shopping.pbix]:** Briefly describe what this dashboard is about (e.g., "Visualizes customer churn rates and identifies key factors contributing to customer attrition.").
+
+![Customer Segmentation](images/analysis.png)
+
+- **[cust_seg.pbix]:** Briefly describe what this dashboard is about (e.g., "Monitors marketing campaign effectiveness, tracking KPIs like conversion rates and ROI.").
+
+![Executive Summary](images/analysis.png)
+
+- **(Add more as needed)**
 
 ---
 
 ## Technologies Used
 
-* **Microsoft Power BI Desktop:** For data modeling, transformation (Power Query), and visualization.
-* **DAX (Data Analysis Expressions):** For creating custom measures and calculated columns.
-* **Various Data Sources:** Including Excel, CSV, SQL databases, etc. (mention specific types if you frequently use them).
+- **Microsoft Power BI Desktop:** For data modeling, transformation (Power Query), and visualization.
+- **DAX (Data Analysis Expressions):** For creating custom measures and calculated columns.
+- **Various Data Sources:** Including Excel, CSV, SQL databases, etc. (mention specific types if you frequently use them).
 
 ---
 
@@ -51,8 +55,8 @@ Here are some of the dashboards you can explore in this repository:
 
 I'm always open to feedback and collaboration! If you have any questions or would like to discuss any of the dashboards, feel free to:
 
-* **Open an issue** in this repository.
-* **Connect with me on LinkedIn:** https://www.linkedin.com/in/aditi-agr/
-* **Email me:** aditi786aaa@gmail.com
----
+- **Open an issue** in this repository.
+- **Connect with me on LinkedIn:** https://www.linkedin.com/in/aditi-agr/
+- **Email me:** aditi786aaa@gmail.com
 
+---
