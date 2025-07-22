@@ -37,10 +37,6 @@ Here are some of the dashboards you can explore in this repository:
 
 - **[cust_seg.pbix]:** This dashboard focuses on customer behavior analysis, segmenting customers based on various criteria such as purchasing patterns, engagement levels, and demographics. It helps identify high-value customer groups and opportunities for targeted marketing.
 
-![Executive Summary](images/analysis.png)
-
-- **[executive_summary.pbix]:** This high-level dashboard presents a concise overview of key business performance indicators, offering a snapshot of critical operational and financial metrics for quick decision-making by executives.
-
 ---
 
 ## Technologies Used
